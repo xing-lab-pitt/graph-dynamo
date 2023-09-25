@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="graph-dynamo",
-    version="0.1.0",
+    version="0.1.1",
     author="{Yan Zhang, Xiaojie Qiu, Ke Ni, Jonathan Weissman, Ivet Bahar, Jianhua Xing",
     author_email="xing1@pitt.edu",
     description="A Python library for working with graphs in Amazon DynamoDB",
