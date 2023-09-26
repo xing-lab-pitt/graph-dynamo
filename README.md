@@ -21,6 +21,7 @@ pip install graph-dynamo
 
 ## Quick Start
 
+WARNING: Underconstruction, please follow the notebooks folder for now.
 After installation, you can easily start working with the `graph-dynamo` package:
 
 ```python
